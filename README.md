@@ -1,7 +1,7 @@
 ### Bonjour et bienvenue sur mon profil Github 👋
 
 
-Je suis developpeuse Front-end, spécialisée REACT
+## Je suis developpeuse Front-end, spécialisée REACT
 
 ### Mes réseaux :
 
