@@ -1,7 +1,4 @@
-### Bonjour et bienvenue sur mon profil Github 👋
-
-
-## Je suis developpeuse Front-end, spécialisée REACT
+## Bonjour et bienvenue sur mon profil Github 👋 Je suis étudiante Openclassrooms "Développeur d'application - JavaScript React"
 
 ### Mes réseaux :
 
